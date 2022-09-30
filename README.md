@@ -1,0 +1,2 @@
+# Metodologia.Agil
+O objetivo desta tarefa é o desenvolvimento de um projeto,  em equipe, de implementação das operações de CRUD (Inserir, Exibir, Atualizar e Excluir)  em Python utilizando apenas elementos nativos em modo console.  Cada equipe deverá implementar as operações utilizando listas ou matrizes,  definindo um menu de ações para a execução."                         #-----Projeto-----# Nosso projeto consiste em uma programa de cadastro de animais que pode ser utilizado em ONG's, veterinários e petshop's.
